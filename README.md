@@ -1,1 +1,1 @@
-# Sentiment-Analysis
+This projects gives a detailed analysis of the given data .As shown I have taken a dataset of tweets in twitter and preprocessed the data by removing the noisy data and given the detailed analysis like " Which gender makes more typos in their tweet" , "What are the most common emotions/words used by Males and Females?" and gives visual representationand used models like naive bayes , logistic regression and support vector machine. And made the comparision of these models ands gives the best fitted of the problem
